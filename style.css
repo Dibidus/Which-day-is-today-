@@ -1,0 +1,17 @@
+body {
+	background-color: #526D00;
+	text-align: center;
+	margin: 15% auto;
+	font-family: calibri;
+}
+#demo {
+	background-color: #AEDE1C;
+	color: #444;
+	font-size: 50px;
+	padding: 30px;
+	width: 40%;
+	margin: 0 auto;
+	box-sizing: border-box;
+	border: grey 5px groove;
+	border-radius: 15px;
+}
